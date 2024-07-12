@@ -31,8 +31,8 @@ The proposed real-time stress recognition system aims to detect, recognize, and 
 ## How to Use
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/Real-Time-Stress-Recognition-System.git
-    cd hand-sign-recognition-system
+    git clone https://github.com/AryaNP02/Real-Time-Stress-Recognition-System.git
+    cd Real-Time-Stress-Recognition-System
     ```
 
 2. **Install the Requirements**
